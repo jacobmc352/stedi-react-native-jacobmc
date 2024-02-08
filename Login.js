@@ -75,7 +75,7 @@ const Login = ({loggedInState, loggedInStates,setLoggedInState})=>{
                 }
               }}
             >
-              <Text style={{color:'white'}}>Hello, {name}</Text>      
+              <Text style={{color:'white'}}>Hello {name}</Text>      
             </TouchableOpacity>
     
           </View>
